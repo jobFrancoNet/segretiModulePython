@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PyScript 2025 – Test</title>
+
+       <!-- PyScript 2025.11.1 -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2025.11.1/core.css" />
+    <script type="module" src="https://pyscript.net/releases/2025.11.1/core.js"></script>
+
+</head>
+<body>
+
+<h1>PyScript funziona!</h1>
+
+<py-script>
+print("Ciao! Questo è Python eseguito dentro il browser.")
+</py-script>
+
+<hr>
+
+<h2>Interazione con HTML</h2>
+<p id="out"></p>
+
+<py-script>
+from pyscript import display
+display("Questo testo è stato generato da PyScript!", target="out")
+</py-script>
+
+</body>
+</html>
+
