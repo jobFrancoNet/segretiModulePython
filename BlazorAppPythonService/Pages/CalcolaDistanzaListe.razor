@@ -1,0 +1,33 @@
+﻿@page "/calcola-distanza"
+@inject HttpClient Http
+<h3>Calcola Distanza Liste</h3>
+
+<textarea @bind="LeftList" placeholder="Lista sinistra"></textarea>
+<textarea @bind="RightList" placeholder="Lista destra"></textarea>
+
+<button @onclick="Calcola">Calcola</button>
+
+@if (Result != null)
+{
+    <p>Risultato: @Result</p>
+}
+
+
+@code {
+        string? LeftList;
+        string? RightList;
+        int? Result;
+
+        async Task Calcola()
+        {
+           var payload = new
+          {
+            left = LeftList.Split().Select(int.Parse),
+            right = RightList.Split().Select(int.Parse)
+          };
+          var response = await Http.PostAsJsonAsync("http://localhost:8000/calcola", payload);
+          var data = await response.Content.ReadFromJsonAsync<Dictionary<string, int>>();
+
+          Result = data!["result"];
+        }
+}
