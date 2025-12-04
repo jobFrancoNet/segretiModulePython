@@ -26,5 +26,5 @@ Mostrare nel terminale i percorsi attivi dei pacchetti
 
 
 
-!\[qrycodeimages](qrycodeimages.png)
+![qrycode](https://github.com/jobFrancoNet/segretiModulePython/blob/main/qrycodeimages.png)
 
