@@ -1,4 +1,6 @@
-﻿@page "/calcola-distanza"
+﻿@using System.Text.Json;
+@using BlazorAppPythonService.Models
+@page "/calcola-distanza"
 @inject HttpClient Http
 <h3>Calcola Distanza Liste</h3>
 
@@ -7,27 +9,31 @@
 
 <button @onclick="Calcola">Calcola</button>
 
-@if (Result != null)
+@if (outputResponse != null)
 {
-    <p>Risultato: @Result</p>
+    <p>Risultato distanza minima: @outputResponse.Result</p>
+    <p>Risultato similarity: @outputResponse.Similarity</p>
 }
 
 
 @code {
-        string? LeftList;
-        string? RightList;
-        int? Result;
+    string? LeftList;
+    string? RightList;
+    OutputResponse? outputResponse;
 
-        async Task Calcola()
+    async Task Calcola()
+    {
+        var payload = new
         {
-           var payload = new
-          {
             left = LeftList.Split().Select(int.Parse),
             right = RightList.Split().Select(int.Parse)
-          };
-          var response = await Http.PostAsJsonAsync("http://localhost:8000/calcola", payload);
-          var data = await response.Content.ReadFromJsonAsync<Dictionary<string, int>>();
-
-          Result = data!["result"];
+        };
+        var response = await Http.PostAsJsonAsync("http://localhost:8000/calcola", payload);
+        var data = await response.Content.ReadFromJsonAsync<Dictionary<string, int>>();
+        outputResponse = new OutputResponse()
+            {
+                Result = data!["result"],
+                Similarity = data!["similarity"]
+            };
         }
 }

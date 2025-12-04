@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\BlazorAppPythonService.csproj",
+      "projectUniqueName": "C:\\segretiModulePython\\BlazorAppPythonService\\BlazorAppPythonService.csproj",
       "projectName": "BlazorAppPythonService",
-      "projectPath": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\BlazorAppPythonService.csproj",
+      "projectPath": "C:\\segretiModulePython\\BlazorAppPythonService\\BlazorAppPythonService.csproj",
       "packagesPath": "C:\\Users\\FrancescoSpalluzzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\obj\\",
+      "outputPath": "C:\\segretiModulePython\\BlazorAppPythonService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

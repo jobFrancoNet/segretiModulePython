@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAppPythonService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3831fb9b6dba582fb018441d8356a9beaa08e064")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppPythonService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppPythonService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

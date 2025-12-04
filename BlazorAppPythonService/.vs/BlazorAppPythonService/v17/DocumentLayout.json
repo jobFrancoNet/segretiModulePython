@@ -1,53 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\",
+  "WorkspaceRootPath": "C:\\segretiModulePython\\BlazorAppPythonService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\calcoladistanzaliste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\calcoladistanzaliste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\calcoladistanzaliste.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\models\\outputresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:models\\outputresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\users\\francescospalluzzi\\pycharmprojects\\blazorapppythonservice\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|c:\\segretimodulepython\\blazorapppythonservice\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D1F5504F-C1F9-4C2C-8AEE-65686A3429D5}|BlazorAppPythonService.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -83,10 +87,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OutputResponse.cs",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Models\\OutputResponse.cs",
+              "RelativeDocumentMoniker": "Models\\OutputResponse.cs",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Models\\OutputResponse.cs",
+              "RelativeToolTip": "Models\\OutputResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:51:23.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcolaDistanzaListe.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\CalcolaDistanzaListe.razor",
+              "RelativeDocumentMoniker": "Pages\\CalcolaDistanzaListe.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\CalcolaDistanzaListe.razor",
+              "RelativeToolTip": "Pages\\CalcolaDistanzaListe.razor",
+              "ViewState": "AgIAAAEAAAAAAAAAAAD4vw8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:46:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Program.cs",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Program.cs",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,146 +125,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CalcolaDistanzaListe.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\CalcolaDistanzaListe.razor",
-              "RelativeDocumentMoniker": "Pages\\CalcolaDistanzaListe.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\CalcolaDistanzaListe.razor",
-              "RelativeToolTip": "Pages\\CalcolaDistanzaListe.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:46:11.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Host.cshtml",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\_Host.cshtml",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\_Host.cshtml",
               "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\_Host.cshtml",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\_Host.cshtml",
               "RelativeToolTip": "Pages\\_Host.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:45:27.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:29:26.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Shared\\NavMenu.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:29:29.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Error.cshtml",
-              "RelativeToolTip": "Pages\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:45:23.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\_Imports.razor",
-              "RelativeDocumentMoniker": "_Imports.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\_Imports.razor",
-              "RelativeToolTip": "_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:29:10.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:45:27.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:40:14.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:29:26.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:29:29.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:45:23.263Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "FetchData.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\FetchData.razor",
-              "RelativeDocumentMoniker": "Pages\\FetchData.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\FetchData.razor",
-              "RelativeToolTip": "Pages\\FetchData.razor",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:40:01.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:29:10.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Layout.cshtml",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:40:14.347Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Index.razor",
-              "RelativeToolTip": "Pages\\Index.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Pages\\FetchData.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Pages\\FetchData.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:29:15.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:40:01.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\Pages\\Counter.razor",
-              "RelativeToolTip": "Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:39:10.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:29:15.509Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T09:39:10.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\App.razor",
+              "DocumentMoniker": "C:\\segretiModulePython\\BlazorAppPythonService\\App.razor",
               "RelativeDocumentMoniker": "App.razor",
-              "ToolTip": "C:\\Users\\FrancescoSpalluzzi\\PycharmProjects\\BlazorAppPythonService\\App.razor",
+              "ToolTip": "C:\\segretiModulePython\\BlazorAppPythonService\\App.razor",
               "RelativeToolTip": "App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-27T09:29:12.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T09:29:12.007Z"
             }
           ]
         },
