@@ -24,3 +24,7 @@ Mostrare nel terminale i percorsi attivi dei pacchetti
 
 
 
+
+
+!\[qrycodeimages](qrycodeimages.png)
+
